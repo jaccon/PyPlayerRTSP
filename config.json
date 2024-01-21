@@ -1,0 +1,12 @@
+{
+  "cameras": [
+    {
+      "url": "rtsp://admin:senha@192.168.0.1:554/onvif1",
+      "legend": "Camera 1",
+      "legend_position": [10, 30],
+      "instructions": "Press C to capture | Press Q to quit",
+      "instructions_position": [10, 60]
+    }
+    
+  ]
+}
